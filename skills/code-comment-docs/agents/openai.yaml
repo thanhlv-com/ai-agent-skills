@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Comment Docs"
+  short_description: "Improve code comments and doc clarity."
+  default_prompt: "Use this skill to add or refine code comments/docstrings with high signal. Focus on intent, constraints, edge cases, and maintainability while removing stale or redundant comments."
