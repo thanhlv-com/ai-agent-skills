@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Rationale"
+  short_description: "Write commit messages that explain context, root cause, implementation, and tradeoffs."
+  default_prompt: "Use this skill to prepare focused git commits with high-signal, audit-friendly commit messages that clearly explain context, root cause, implementation details, validation, and rollback considerations."
