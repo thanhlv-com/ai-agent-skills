@@ -1,0 +1,4 @@
+interface:
+  display_name: "Request Analysis Planning"
+  short_description: "Analyze and plan before implementation on new requests."
+  default_prompt: "For each new request, first analyze scope, assumptions, dependencies, and risks; then produce an ordered execution plan with validation gates before implementing and reporting outcomes."
