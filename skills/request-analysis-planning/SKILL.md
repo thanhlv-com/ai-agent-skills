@@ -1,17 +1,17 @@
 ---
 name: request-analysis-planning
-description: For new requests, analyze context and create an execution plan before implementation.
+description: For every request, analyze context and create an execution plan before implementation.
 ---
 
 # Request Analysis Planning
 
-Use this skill when a new request arrives and execution should start only after analysis and planning.
+Use this skill for every incoming request. Execution should start only after analysis and planning.
 
 ## Trigger
-Use this skill when:
-- The request introduces new scope, new files, or non-trivial changes.
-- The expected behavior, risks, or dependencies are not fully explicit.
-- Work involves multiple steps that need ordering.
+Use this skill on all requests:
+- Always perform a brief analysis and plan before execution.
+- Use a compact plan for simple tasks.
+- Use a detailed plan for non-trivial, risky, or multi-step changes.
 
 ## Workflow
 1. Analyze request:
@@ -31,7 +31,7 @@ Use this skill when:
 - Summarize final changes, deviations from plan, and residual risks.
 
 ## Repository Rules
-- Do not skip analysis and planning for non-trivial requests.
+- Do not skip analysis and planning for any request.
 - Keep plan steps testable and observable.
 - Keep implementation aligned with the latest agreed plan.
 
