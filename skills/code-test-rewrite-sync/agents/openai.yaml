@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Test Rewrite Sync"
+  short_description: "Rewrite outdated tests to match intended current logic."
+  default_prompt: "Use this skill when logic changed and tests now encode legacy behavior. Rewrite failing or stale tests to match current intended behavior, keep strong coverage, run module-native test commands, and summarize what assertions were changed and why."
