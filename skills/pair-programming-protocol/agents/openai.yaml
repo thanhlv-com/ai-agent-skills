@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pair Programming Protocol"
+  short_description: "Use pair programming effectively for complex tasks."
+  default_prompt: "Use this skill to apply structured pairing sessions with clear outcomes, apply focused changes, run relevant validations, and summarize decisions and risks."

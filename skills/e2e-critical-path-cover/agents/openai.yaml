@@ -1,0 +1,4 @@
+interface:
+  display_name: "E2E Critical Path Cover"
+  short_description: "Cover critical business flows with E2E tests."
+  default_prompt: "Use this skill to add and maintain E2E tests for top user journeys, apply focused changes, run relevant validations, and summarize decisions and risks."

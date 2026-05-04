@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concurrency Race Audit"
+  short_description: "Detect and fix race conditions in shared state."
+  default_prompt: "Use this skill to add synchronization or redesign to remove race conditions, apply focused changes, run relevant validations, and summarize decisions and risks."

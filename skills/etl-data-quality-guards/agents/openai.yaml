@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETL Data Quality Guards"
+  short_description: "Add validation guards to ETL pipelines."
+  default_prompt: "Use this skill to enforce data quality checks and anomaly detection, apply focused changes, run relevant validations, and summarize decisions and risks."

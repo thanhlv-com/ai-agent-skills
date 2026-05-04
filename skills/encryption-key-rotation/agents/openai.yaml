@@ -1,0 +1,4 @@
+interface:
+  display_name: "Encryption Key Rotation"
+  short_description: "Implement safe key rotation and crypto hygiene."
+  default_prompt: "Use this skill to design key rotation workflows and compatibility checks, apply focused changes, run relevant validations, and summarize decisions and risks."

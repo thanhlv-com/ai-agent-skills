@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Bundle Debt Reduction"
+  short_description: "Reduce bundle size and loading overhead."
+  default_prompt: "Use this skill to trim bundle weight and improve code-splitting strategy, apply focused changes, run relevant validations, and summarize decisions and risks."

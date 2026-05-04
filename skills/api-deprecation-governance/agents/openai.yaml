@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Deprecation Governance"
+  short_description: "Manage API deprecation lifecycle safely."
+  default_prompt: "Use this skill to define deprecation policy, notices, and sunset validation, apply focused changes, run relevant validations, and summarize decisions and risks."

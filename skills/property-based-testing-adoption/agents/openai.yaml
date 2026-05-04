@@ -1,0 +1,4 @@
+interface:
+  display_name: "Property Based Testing Adoption"
+  short_description: "Adopt property-based testing for invariant-heavy logic."
+  default_prompt: "Use this skill to add property-based tests for generalized behavior guarantees, apply focused changes, run relevant validations, and summarize decisions and risks."

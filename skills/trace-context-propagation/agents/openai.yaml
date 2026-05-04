@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trace Context Propagation"
+  short_description: "Ensure tracing context flows across boundaries."
+  default_prompt: "Use this skill to propagate trace/span context through async and network hops, apply focused changes, run relevant validations, and summarize decisions and risks."

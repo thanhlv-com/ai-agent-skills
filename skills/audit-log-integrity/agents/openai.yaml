@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Log Integrity"
+  short_description: "Ensure audit logs are complete and tamper-evident."
+  default_prompt: "Use this skill to enforce auditable security events and integrity safeguards, apply focused changes, run relevant validations, and summarize decisions and risks."

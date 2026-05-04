@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retry Backoff Policy"
+  short_description: "Apply safe retry with exponential backoff and jitter."
+  default_prompt: "Use this skill to enforce retry policy without causing retry storms, apply focused changes, run relevant validations, and summarize decisions and risks."

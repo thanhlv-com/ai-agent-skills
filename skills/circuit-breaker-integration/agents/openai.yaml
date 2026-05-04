@@ -1,0 +1,4 @@
+interface:
+  display_name: "Circuit Breaker Integration"
+  short_description: "Protect services from cascading downstream failures."
+  default_prompt: "Use this skill to add circuit breakers and verify fallback behavior, apply focused changes, run relevant validations, and summarize decisions and risks."

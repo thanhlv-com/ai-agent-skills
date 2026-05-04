@@ -1,0 +1,4 @@
+interface:
+  display_name: "Error Handling Standardization"
+  short_description: "Standardize error codes, messages, and failure semantics."
+  default_prompt: "Use this skill to normalize error handling paths and contract-level error responses, apply focused changes, run relevant validations, and summarize decisions and risks."

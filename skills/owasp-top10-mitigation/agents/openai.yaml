@@ -1,0 +1,4 @@
+interface:
+  display_name: "OWASP Top10 Mitigation"
+  short_description: "Address common web security risks systematically."
+  default_prompt: "Use this skill to implement safeguards mapped to OWASP Top 10 categories, apply focused changes, run relevant validations, and summarize decisions and risks."

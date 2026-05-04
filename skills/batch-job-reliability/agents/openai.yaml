@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Job Reliability"
+  short_description: "Make scheduled/batch jobs resilient and observable."
+  default_prompt: "Use this skill to harden batch execution with idempotency and retries, apply focused changes, run relevant validations, and summarize decisions and risks."

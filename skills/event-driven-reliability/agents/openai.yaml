@@ -1,0 +1,4 @@
+interface:
+  display_name: "Event Driven Reliability"
+  short_description: "Improve reliability in event-based workflows."
+  default_prompt: "Use this skill to harden event publishing/consuming with retries and deduplication, apply focused changes, run relevant validations, and summarize decisions and risks."

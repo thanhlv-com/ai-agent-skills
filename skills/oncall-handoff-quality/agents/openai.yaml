@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oncall Handoff Quality"
+  short_description: "Improve quality of on-call handoffs and context."
+  default_prompt: "Use this skill to create reliable handoff artifacts and escalation clarity, apply focused changes, run relevant validations, and summarize decisions and risks."

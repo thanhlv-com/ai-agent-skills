@@ -1,0 +1,4 @@
+interface:
+  display_name: "Developer Onboarding Accelerator"
+  short_description: "Speed up onboarding with practical learning paths."
+  default_prompt: "Use this skill to improve onboarding docs, starter tasks, and environment setup, apply focused changes, run relevant validations, and summarize decisions and risks."

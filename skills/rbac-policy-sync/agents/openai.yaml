@@ -1,0 +1,4 @@
+interface:
+  display_name: "RBAC Policy Sync"
+  short_description: "Keep role-permission mappings consistent with product rules."
+  default_prompt: "Use this skill to synchronize RBAC rules with implementation and tests, apply focused changes, run relevant validations, and summarize decisions and risks."

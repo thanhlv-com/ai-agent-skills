@@ -1,0 +1,4 @@
+interface:
+  display_name: "Container Image Security"
+  short_description: "Secure container images and supply chain inputs."
+  default_prompt: "Use this skill to harden image build, scan, and runtime policies, apply focused changes, run relevant validations, and summarize decisions and risks."

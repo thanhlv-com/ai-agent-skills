@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review Effectiveness"
+  short_description: "Improve code review quality and turnaround."
+  default_prompt: "Use this skill to enforce high-signal review checklist and feedback standards, apply focused changes, run relevant validations, and summarize decisions and risks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Runbook Completeness Check"
+  short_description: "Ensure operational runbooks are complete and testable."
+  default_prompt: "Use this skill to fill runbook gaps and verify step-by-step recovery flow, apply focused changes, run relevant validations, and summarize decisions and risks."

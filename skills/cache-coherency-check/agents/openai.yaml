@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cache Coherency Check"
+  short_description: "Keep cache invalidation and data freshness correct."
+  default_prompt: "Use this skill to audit cache update/invalidation flow to prevent stale reads, apply focused changes, run relevant validations, and summarize decisions and risks."

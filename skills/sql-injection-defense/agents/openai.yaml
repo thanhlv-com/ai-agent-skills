@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Injection Defense"
+  short_description: "Eliminate SQL injection risks in data access code."
+  default_prompt: "Use this skill to harden query construction and validate attack-path tests, apply focused changes, run relevant validations, and summarize decisions and risks."

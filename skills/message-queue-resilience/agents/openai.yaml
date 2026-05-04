@@ -1,0 +1,4 @@
+interface:
+  display_name: "Message Queue Resilience"
+  short_description: "Handle queue retries, poison messages, and dead letters."
+  default_prompt: "Use this skill to strengthen queue consumers and failure recovery logic, apply focused changes, run relevant validations, and summarize decisions and risks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Input Validation Guard"
+  short_description: "Ensure strict input validation across interfaces."
+  default_prompt: "Use this skill to add robust validation and negative tests for external inputs, apply focused changes, run relevant validations, and summarize decisions and risks."

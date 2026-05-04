@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Contract Validation"
+  short_description: "Validate API request/response contracts and prevent schema drift."
+  default_prompt: "Use this skill to validate API schemas and align handlers with contract definitions, apply focused changes, run relevant validations, and summarize decisions and risks."

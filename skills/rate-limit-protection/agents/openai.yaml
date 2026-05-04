@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rate Limit Protection"
+  short_description: "Implement and verify API throttling policies."
+  default_prompt: "Use this skill to add and validate rate limiting and abuse protection behavior, apply focused changes, run relevant validations, and summarize decisions and risks."

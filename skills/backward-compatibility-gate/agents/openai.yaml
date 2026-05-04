@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backward Compatibility Gate"
+  short_description: "Prevent breaking changes in stable interfaces."
+  default_prompt: "Use this skill to add compatibility checks for public contracts, apply focused changes, run relevant validations, and summarize decisions and risks."

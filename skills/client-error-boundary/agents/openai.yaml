@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Error Boundary"
+  short_description: "Contain client runtime failures gracefully."
+  default_prompt: "Use this skill to add error boundaries and fallback UI handling, apply focused changes, run relevant validations, and summarize decisions and risks."

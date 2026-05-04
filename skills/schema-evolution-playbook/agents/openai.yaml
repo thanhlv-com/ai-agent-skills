@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schema Evolution Playbook"
+  short_description: "Evolve schemas without service disruption."
+  default_prompt: "Use this skill to plan additive/compatible schema changes and rollout, apply focused changes, run relevant validations, and summarize decisions and risks."

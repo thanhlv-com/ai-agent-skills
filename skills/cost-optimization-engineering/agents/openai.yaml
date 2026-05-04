@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost Optimization Engineering"
+  short_description: "Reduce infra and runtime costs without regressions."
+  default_prompt: "Use this skill to identify cost hotspots and implement efficient alternatives, apply focused changes, run relevant validations, and summarize decisions and risks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mutation Testing Intro"
+  short_description: "Use mutation testing to assess assertion strength."
+  default_prompt: "Use this skill to apply mutation checks and strengthen weak tests, apply focused changes, run relevant validations, and summarize decisions and risks."

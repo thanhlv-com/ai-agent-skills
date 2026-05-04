@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contract Test Producer Consumer"
+  short_description: "Keep producer-consumer contracts synchronized."
+  default_prompt: "Use this skill to implement contract tests to prevent integration drift, apply focused changes, run relevant validations, and summarize decisions and risks."

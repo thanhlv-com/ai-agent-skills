@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rollback Readiness"
+  short_description: "Prepare safe rollback procedures for risky changes."
+  default_prompt: "Use this skill to add rollback plan, checks, and recovery runbook steps, apply focused changes, run relevant validations, and summarize decisions and risks."

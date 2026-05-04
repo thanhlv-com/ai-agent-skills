@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alert Fatigue Reduction"
+  short_description: "Reduce noisy alerts and improve actionable signal."
+  default_prompt: "Use this skill to refine alert rules, thresholds, and ownership mapping, apply focused changes, run relevant validations, and summarize decisions and risks."

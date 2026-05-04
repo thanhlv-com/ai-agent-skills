@@ -1,0 +1,4 @@
+interface:
+  display_name: "Form Validation UX"
+  short_description: "Improve form validation clarity and usability."
+  default_prompt: "Use this skill to implement user-friendly client/server validation behavior, apply focused changes, run relevant validations, and summarize decisions and risks."

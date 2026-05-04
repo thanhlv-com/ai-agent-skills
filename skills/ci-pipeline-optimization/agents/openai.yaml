@@ -1,0 +1,4 @@
+interface:
+  display_name: "CI Pipeline Optimization"
+  short_description: "Speed up CI while preserving quality gates."
+  default_prompt: "Use this skill to optimize pipeline parallelism, caching, and failure visibility, apply focused changes, run relevant validations, and summarize decisions and risks."

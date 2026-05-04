@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Data Factory Design"
+  short_description: "Build reusable and deterministic test data factories."
+  default_prompt: "Use this skill to design test fixtures/builders for readability and reuse, apply focused changes, run relevant validations, and summarize decisions and risks."

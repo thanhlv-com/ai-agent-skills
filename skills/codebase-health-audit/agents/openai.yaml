@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Health Audit"
+  short_description: "Assess maintainability risks across the codebase."
+  default_prompt: "Use this skill to identify hotspots and define remediation actions, apply focused changes, run relevant validations, and summarize decisions and risks."

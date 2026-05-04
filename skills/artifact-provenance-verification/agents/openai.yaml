@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artifact Provenance Verification"
+  short_description: "Ensure trusted build artifact provenance."
+  default_prompt: "Use this skill to add provenance/signature verification in delivery pipeline, apply focused changes, run relevant validations, and summarize decisions and risks."

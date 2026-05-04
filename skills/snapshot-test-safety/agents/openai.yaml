@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snapshot Test Safety"
+  short_description: "Use snapshot tests safely without brittle approvals."
+  default_prompt: "Use this skill to scope and curate snapshot usage to avoid false confidence, apply focused changes, run relevant validations, and summarize decisions and risks."
