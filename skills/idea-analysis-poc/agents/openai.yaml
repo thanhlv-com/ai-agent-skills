@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Analysis POC"
+  short_description: "Analyze and expand a raw idea, then produce practical artifacts to run a POC."
+  default_prompt: "Use this skill when the user gives a raw idea and needs structured analysis plus POC preparation. Clarify assumptions, analyze feasibility and risks, expand into 2-3 solution options with tradeoff comparison, recommend one direction, and generate concrete POC artifacts: problem statement, scope/non-goals, hypothesis list, high-level architecture, milestone plan, validation metrics, and risk mitigation actions."

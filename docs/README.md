@@ -1,6 +1,6 @@
 # Skills Documentation
 
-Tổng hợp tài liệu chi tiết cho 107 skill trong repository.
+Tổng hợp tài liệu chi tiết cho 108 skill trong repository.
 
 ## Danh sách skill
 
@@ -162,6 +162,9 @@ Tổng hợp tài liệu chi tiết cho 107 skill trong repository.
   - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
 - [i18n L10n Readiness](skills/i18n-l10n-readiness.md) (`i18n-l10n-readiness`)
   - EN: Prepare UI for localization and translation workflows.
+  - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
+- [Idea Analysis POC](skills/idea-analysis-poc.md) (`idea-analysis-poc`)
+  - EN: Transform a raw user idea into a structured concept package by analyzing problem-space, expanding solution options, and producing practical POC artifacts.
   - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
 - [Idempotency Enforcement](skills/idempotency-enforcement.md) (`idempotency-enforcement`)
   - EN: Add idempotency guarantees for retry-prone operations.
