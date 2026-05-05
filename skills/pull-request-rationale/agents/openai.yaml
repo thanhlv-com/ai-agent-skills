@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pull Request Rationale"
+  short_description: "Write PR title and description with clear rationale, and require target branch while using current branch as source."
+  default_prompt: "Use this skill to create or refine a pull request title and description by treating the current checked-out branch as source branch, asking the user for target branch (main/dev/any), and clearly explaining context, problem, root cause, implementation details, reasoning, impact, validation evidence, and risk/rollback plan."
