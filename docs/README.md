@@ -1,6 +1,6 @@
 # Skills Documentation
 
-Tổng hợp tài liệu chi tiết cho 106 skill trong repository.
+Tổng hợp tài liệu chi tiết cho 107 skill trong repository.
 
 ## Danh sách skill
 
@@ -222,6 +222,9 @@ Tổng hợp tài liệu chi tiết cho 106 skill trong repository.
   - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
 - [Property Based Testing Adoption](skills/property-based-testing-adoption.md) (`property-based-testing-adoption`)
   - EN: Adopt property-based testing for invariant-heavy logic.
+  - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
+- [Pull Request Review](skills/pull-request-review.md) (`pull-request-review`)
+  - EN: Review pull requests by comparing the PR branch against the main branch, identifying correctness and regression risks, validating tests/docs coverage, and producing an actionable findings report with severity and file references.
   - VI: Tài liệu mô tả mục tiêu, phạm vi, quy trình, quy tắc thực thi và checklist xác minh cho kỹ năng này.
 - [Query Performance Tuning](skills/query-performance-tuning.md) (`query-performance-tuning`)
   - EN: Optimize slow queries and reduce database load.

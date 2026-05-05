@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pull Request Review"
+  short_description: "Review PR by diffing user-provided base branch and current PR branch with risk-first findings."
+  default_prompt: "Use this skill to review a pull request by asking for the base branch (main/dev/any), treating the current checked-out branch as the PR branch, prioritizing correctness/regression risks, validating tests/docs coverage, and returning a severity-ranked findings report with file references."
