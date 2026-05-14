@@ -2,7 +2,7 @@ model = "gpt-5.3-codex"
 model_provider = "ly-chatai"
 personality = "pragmatic"
 approvals_reviewer = "user"
-model_reasoning_effort = "medium"
+model_reasoning_effort = "high"
 sandbox_mode = "workspace-write"
 
 [model_providers.ly-chatai]

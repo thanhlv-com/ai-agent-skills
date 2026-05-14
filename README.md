@@ -17,6 +17,8 @@ Repository này chứa bộ reusable Codex skills.
 
 ## Quick Commands
 
+- `bash scripts/sync-config.sh`
 - `bash scripts/sync-skills.sh`
+- `bash -n scripts/sync-config.sh`
 - `bash -n scripts/sync-skills.sh`
 - `rg --files skills`

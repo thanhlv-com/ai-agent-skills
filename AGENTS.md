@@ -14,7 +14,9 @@ Keep each skill self-contained in its own directory. Add new skills under `skill
 
 ## Build, Test, and Development Commands
 There is no compile/build pipeline in this repo; use lightweight validation.
+- `bash scripts/sync-config.sh`: sync skills and merge `config.toml` into local `~/.codex/config.toml`.
 - `bash scripts/sync-skills.sh`: creates/refreshes symlinks to local Codex skills.
+- `bash -n scripts/sync-config.sh`: syntax-check the config sync Bash script.
 - `bash -n scripts/sync-skills.sh`: syntax-check the Bash script.
 - `rg --files skills`: verify expected skill files are present.
 - `git status --short`: confirm only intended files changed before commit.
