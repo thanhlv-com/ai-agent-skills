@@ -55,6 +55,11 @@ Use this skill when:
 - Avoid vague titles like `update`, `fix stuff`, or `misc changes`.
 
 3. Build a structured PR description:
+- Prefer repository template when available:
+  - If `.github/pull_request_template.md` exists, use it as the primary PR body structure.
+  - Preserve repository-specific sections/questions from that template.
+  - Fill missing details so core rationale is still covered: `Context`, `Problem`, `Root Cause`, `Change`, `Why This Approach`, `Impact`, `Validation`, `Risk / Rollback`.
+- If repository template does not exist, use the default structure below.
 - `Context`: background and operational/business scenario.
 - `Problem`: concrete symptom before this change.
 - `Root Cause`: why the old behavior failed.
@@ -75,7 +80,7 @@ Use this skill when:
 - Remove ambiguous wording and replace with reproducible facts.
 
 ## PR Template
-Use this template (adapt as needed):
+Fallback template when `.github/pull_request_template.md` is not present:
 
 ```text
 <type>(<scope>): <short outcome-focused summary>
