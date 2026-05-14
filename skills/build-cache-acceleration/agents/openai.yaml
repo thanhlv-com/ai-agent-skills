@@ -1,4 +1,0 @@
-interface:
-  display_name: "Build Cache Acceleration"
-  short_description: "Speed builds with effective cache strategies."
-  default_prompt: "Use this skill to configure cache keys and layers for reliable acceleration, apply focused changes, run relevant validations, and summarize decisions and risks."

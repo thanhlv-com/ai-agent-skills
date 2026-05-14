@@ -1,4 +1,0 @@
-interface:
-  display_name: "i18n L10n Readiness"
-  short_description: "Prepare UI for localization and translation workflows."
-  default_prompt: "Use this skill to make strings, formatting, and layout localization-safe, apply focused changes, run relevant validations, and summarize decisions and risks."

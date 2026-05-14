@@ -1,4 +1,0 @@
-interface:
-  display_name: "Requirements Clarification Workflow"
-  short_description: "Reduce ambiguity before implementation starts."
-  default_prompt: "Use this skill to clarify requirements with assumptions, edge cases, and acceptance criteria, apply focused changes, run relevant validations, and summarize decisions and risks."

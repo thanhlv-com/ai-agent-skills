@@ -1,4 +1,0 @@
-interface:
-  display_name: "Secure Code Review"
-  short_description: "Review code changes with a security-first checklist."
-  default_prompt: "Use this skill to perform targeted secure code review and remediation, apply focused changes, run relevant validations, and summarize decisions and risks."

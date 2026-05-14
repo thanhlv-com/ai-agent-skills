@@ -1,4 +1,0 @@
-interface:
-  display_name: "Test Flakiness Eradication"
-  short_description: "Find and remove flaky test behavior."
-  default_prompt: "Use this skill to stabilize tests with deterministic data/time/isolation controls, apply focused changes, run relevant validations, and summarize decisions and risks."

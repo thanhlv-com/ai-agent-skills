@@ -1,4 +1,0 @@
-interface:
-  display_name: "Search Relevance Tuning"
-  short_description: "Improve search quality and ranking relevance."
-  default_prompt: "Use this skill to adjust search analyzers/scoring with measurable outcomes, apply focused changes, run relevant validations, and summarize decisions and risks."

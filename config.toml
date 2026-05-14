@@ -1,0 +1,49 @@
+model = "gpt-5.3-codex"
+model_provider = "ly-chatai"
+personality = "pragmatic"
+approvals_reviewer = "user"
+model_reasoning_effort = "medium"
+sandbox_mode = "workspace-write"
+
+[model_providers.ly-chatai]
+name     = "LY ChatAI"
+# Choose one of the following base URLs (see details below):
+base_url = "https://openai-proxy.linecorp.com/v1"
+env_key  = "OPENAI_CODEX_API_KEY"
+wire_api = "responses"
+approval_policy = "never"
+
+[sandbox_workspace_write]
+network_access = true
+
+
+[mcp_servers.context7]
+url = "https://mcp.context7.com/mcp"
+
+[mcp_servers.context7.http_headers]
+CONTEXT7_API_KEY = "ctx7sk-068b4d9c-9433-4e46-8d2d-8b368cbb640c"
+
+
+[mcp_servers.chrome-devtools]
+command = "npx"
+args = ["chrome-devtools-mcp@latest"]
+
+[notice.model_migrations]
+"gpt-5.3-codex" = "gpt-5.4"
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["@playwright/mcp@latest"]
+
+[mcp_servers.playwright.tools.browser_navigate]
+approval_mode = "approve"
+
+[mcp_servers.playwright.tools.browser_click]
+approval_mode = "approve"
+
+[mcp_servers.playwright.tools.browser_evaluate]
+approval_mode = "approve"
+

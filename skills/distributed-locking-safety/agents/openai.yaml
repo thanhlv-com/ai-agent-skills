@@ -1,4 +1,0 @@
-interface:
-  display_name: "Distributed Locking Safety"
-  short_description: "Use distributed locks safely under contention."
-  default_prompt: "Use this skill to review lock semantics, timeouts, and failure behavior, apply focused changes, run relevant validations, and summarize decisions and risks."

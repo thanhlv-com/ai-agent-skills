@@ -1,4 +1,0 @@
-interface:
-  display_name: "Authentication Authorization Hardening"
-  short_description: "Strengthen authentication and authorization controls."
-  default_prompt: "Use this skill to review and harden authn/authz flows and permission checks, apply focused changes, run relevant validations, and summarize decisions and risks."

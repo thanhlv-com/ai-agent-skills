@@ -1,4 +1,0 @@
-interface:
-  display_name: "Release Checklist Automation"
-  short_description: "Automate repetitive release verification tasks."
-  default_prompt: "Use this skill to codify release gates and automate checklist execution, apply focused changes, run relevant validations, and summarize decisions and risks."

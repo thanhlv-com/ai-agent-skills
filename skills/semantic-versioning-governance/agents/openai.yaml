@@ -1,4 +1,0 @@
-interface:
-  display_name: "Semantic Versioning Governance"
-  short_description: "Apply semantic versioning discipline to changes."
-  default_prompt: "Use this skill to classify changes correctly and enforce versioning policy, apply focused changes, run relevant validations, and summarize decisions and risks."

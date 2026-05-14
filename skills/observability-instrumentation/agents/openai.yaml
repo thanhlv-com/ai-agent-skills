@@ -1,4 +1,0 @@
-interface:
-  display_name: "Observability Instrumentation"
-  short_description: "Improve metrics, logs, and traces for diagnosability."
-  default_prompt: "Use this skill to add actionable telemetry on critical paths, apply focused changes, run relevant validations, and summarize decisions and risks."

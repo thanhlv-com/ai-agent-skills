@@ -1,4 +1,0 @@
-interface:
-  display_name: "Integration Test Hardening"
-  short_description: "Strengthen integration tests around service boundaries."
-  default_prompt: "Use this skill to improve integration coverage and failure diagnostics, apply focused changes, run relevant validations, and summarize decisions and risks."

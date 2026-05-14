@@ -1,4 +1,0 @@
-interface:
-  display_name: "Canary Release Strategy"
-  short_description: "Roll out changes progressively with canary analysis."
-  default_prompt: "Use this skill to implement canary rollout and automated rollback criteria, apply focused changes, run relevant validations, and summarize decisions and risks."

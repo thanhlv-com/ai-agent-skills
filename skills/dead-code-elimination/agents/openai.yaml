@@ -1,4 +1,0 @@
-interface:
-  display_name: "Dead Code Elimination"
-  short_description: "Remove unreachable or unused code safely."
-  default_prompt: "Use this skill to detect and prune dead code with confidence checks, apply focused changes, run relevant validations, and summarize decisions and risks."

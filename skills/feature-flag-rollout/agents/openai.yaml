@@ -1,4 +1,0 @@
-interface:
-  display_name: "Feature Flag Rollout"
-  short_description: "Safely release features with flags and guardrails."
-  default_prompt: "Use this skill to implement staged feature-flag rollout and fallback paths, apply focused changes, run relevant validations, and summarize decisions and risks."

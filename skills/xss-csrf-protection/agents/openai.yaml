@@ -1,4 +1,0 @@
-interface:
-  display_name: "XSS CSRF Protection"
-  short_description: "Protect applications from XSS and CSRF attacks."
-  default_prompt: "Use this skill to apply encoding, token, and policy defenses with tests, apply focused changes, run relevant validations, and summarize decisions and risks."

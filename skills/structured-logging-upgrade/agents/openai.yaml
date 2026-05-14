@@ -1,4 +1,0 @@
-interface:
-  display_name: "Structured Logging Upgrade"
-  short_description: "Adopt consistent structured logging conventions."
-  default_prompt: "Use this skill to standardize log schema and context propagation, apply focused changes, run relevant validations, and summarize decisions and risks."

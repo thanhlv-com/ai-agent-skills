@@ -1,4 +1,0 @@
-interface:
-  display_name: "Frontend Accessibility AA"
-  short_description: "Meet WCAG AA accessibility requirements."
-  default_prompt: "Use this skill to fix accessibility issues with semantic and keyboard support, apply focused changes, run relevant validations, and summarize decisions and risks."

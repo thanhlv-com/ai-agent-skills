@@ -1,4 +1,0 @@
-interface:
-  display_name: "Session Management Hardening"
-  short_description: "Strengthen session lifecycle and cookie security."
-  default_prompt: "Use this skill to secure session handling and invalidation behavior, apply focused changes, run relevant validations, and summarize decisions and risks."

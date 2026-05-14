@@ -1,4 +1,0 @@
-interface:
-  display_name: "Idempotency Enforcement"
-  short_description: "Add idempotency guarantees for retry-prone operations."
-  default_prompt: "Use this skill to implement and verify idempotent behavior for write operations, apply focused changes, run relevant validations, and summarize decisions and risks."

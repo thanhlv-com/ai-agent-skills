@@ -1,4 +1,0 @@
-interface:
-  display_name: "Stream Processing Correctness"
-  short_description: "Verify correctness in stream processing logic."
-  default_prompt: "Use this skill to test ordering, windowing, and exactly-once semantics, apply focused changes, run relevant validations, and summarize decisions and risks."

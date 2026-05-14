@@ -1,4 +1,0 @@
-interface:
-  display_name: "N+1 Query Elimination"
-  short_description: "Detect and remove N+1 query patterns."
-  default_prompt: "Use this skill to refactor data access to eliminate repetitive query amplification, apply focused changes, run relevant validations, and summarize decisions and risks."

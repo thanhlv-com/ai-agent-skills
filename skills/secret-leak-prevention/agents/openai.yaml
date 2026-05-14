@@ -1,4 +1,0 @@
-interface:
-  display_name: "Secret Leak Prevention"
-  short_description: "Prevent credentials and key material leaks."
-  default_prompt: "Use this skill to enforce secret scanning and safe config practices, apply focused changes, run relevant validations, and summarize decisions and risks."

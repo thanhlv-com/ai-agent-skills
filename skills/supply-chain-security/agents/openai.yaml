@@ -1,4 +1,0 @@
-interface:
-  display_name: "Supply Chain Security"
-  short_description: "Reduce software supply chain attack surface."
-  default_prompt: "Use this skill to implement dependency provenance and integrity safeguards, apply focused changes, run relevant validations, and summarize decisions and risks."

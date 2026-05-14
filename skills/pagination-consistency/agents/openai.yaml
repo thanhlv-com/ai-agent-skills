@@ -1,4 +1,0 @@
-interface:
-  display_name: "Pagination Consistency"
-  short_description: "Ensure stable and predictable pagination behavior."
-  default_prompt: "Use this skill to standardize pagination semantics and edge-case handling, apply focused changes, run relevant validations, and summarize decisions and risks."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Responsive Layout Hardening"
-  short_description: "Fix layout behavior across breakpoints and devices."
-  default_prompt: "Use this skill to improve responsive behavior and overflow resilience, apply focused changes, run relevant validations, and summarize decisions and risks."

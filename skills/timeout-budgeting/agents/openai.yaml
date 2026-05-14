@@ -1,4 +1,0 @@
-interface:
-  display_name: "Timeout Budgeting"
-  short_description: "Set coherent timeouts across service boundaries."
-  default_prompt: "Use this skill to define and align timeout budgets end-to-end, apply focused changes, run relevant validations, and summarize decisions and risks."

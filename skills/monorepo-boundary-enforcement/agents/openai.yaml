@@ -1,4 +1,0 @@
-interface:
-  display_name: "Monorepo Boundary Enforcement"
-  short_description: "Keep module boundaries and dependencies clean."
-  default_prompt: "Use this skill to enforce monorepo dependency rules and ownership constraints, apply focused changes, run relevant validations, and summarize decisions and risks."

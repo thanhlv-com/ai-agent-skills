@@ -1,4 +1,0 @@
-interface:
-  display_name: "Blue Green Deployment"
-  short_description: "Adopt blue-green deployments for low-risk releases."
-  default_prompt: "Use this skill to set up blue-green switching and validation checks, apply focused changes, run relevant validations, and summarize decisions and risks."

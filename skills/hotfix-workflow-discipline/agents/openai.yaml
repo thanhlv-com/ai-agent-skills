@@ -1,4 +1,0 @@
-interface:
-  display_name: "Hotfix Workflow Discipline"
-  short_description: "Standardize urgent production fix workflow."
-  default_prompt: "Use this skill to define safe hotfix flow with traceability and tests, apply focused changes, run relevant validations, and summarize decisions and risks."

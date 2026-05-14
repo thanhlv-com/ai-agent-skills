@@ -1,4 +1,0 @@
-interface:
-  display_name: "Service SLO Alignment"
-  short_description: "Align implementation with service SLO/SLI targets."
-  default_prompt: "Use this skill to map code paths to SLO risk and mitigation actions, apply focused changes, run relevant validations, and summarize decisions and risks."
