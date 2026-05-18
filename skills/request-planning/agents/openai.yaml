@@ -1,0 +1,4 @@
+interface:
+  display_name: "Request Planning"
+  short_description: "Plan first for incoming requests."
+  default_prompt: "Use this skill to create an actionable execution plan before implementation. Define goals, constraints, assumptions, ordered steps, risks, and validation checkpoints, then execute and update the plan as needed."

@@ -14,6 +14,7 @@ Repository này chứa bộ reusable Codex skills.
 - [Idea Analysis POC](docs/skills/idea-analysis-poc.md)
 - [Pull Request Rationale](docs/skills/pull-request-rationale.md)
 - [Pull Request Review](docs/skills/pull-request-review.md)
+- [Request Planning](docs/skills/request-planning.md)
 
 ## Quick Commands
 

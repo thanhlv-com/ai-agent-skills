@@ -1,6 +1,6 @@
 # Skills Documentation
 
-Tổng hợp tài liệu chi tiết cho 9 skill hiện có trong repository.
+Tổng hợp tài liệu chi tiết cho 10 skill hiện có trong repository.
 
 ## Danh sách skill
 
@@ -22,3 +22,5 @@ Tổng hợp tài liệu chi tiết cho 9 skill hiện có trong repository.
   - EN: Build clear PR titles and detailed rationale-rich descriptions.
 - [Pull Request Review](skills/pull-request-review.md) (`pull-request-review`)
   - EN: Review PRs with a risk-first process against a user-provided base branch.
+- [Request Planning](skills/request-planning.md) (`request-planning`)
+  - EN: Plan execution before acting on incoming requests.
