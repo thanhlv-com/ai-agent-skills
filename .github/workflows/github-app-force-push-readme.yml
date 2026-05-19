@@ -21,7 +21,7 @@ jobs:
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.THANHLV_PRIVATE_KEY }}
-
+          repositories: ai-agent-skills
       - name: Checkout repository with app token
         uses: actions/checkout@v4
         with:
