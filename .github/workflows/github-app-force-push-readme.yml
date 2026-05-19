@@ -1,0 +1,49 @@
+name: GitHub App Force Push readme.md
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Branch to pull and force-push
+        required: true
+        default: main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+
+      - name: Checkout repository with app token
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          ref: ${{ github.event.inputs.branch }}
+          fetch-depth: 0
+
+      - name: Pull latest branch state
+        run: |
+          git pull origin "${{ github.event.inputs.branch }}"
+
+      - name: Add random character to readme.md
+        run: |
+          printf "%s" "$(tr -dc 'a-z0-9' < /dev/urandom | head -c 1)" >> readme.md
+
+      - name: Commit change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add readme.md
+          git commit -m "chore: update readme.md by workflow"
+
+      - name: Force push
+        run: |
+          git push --force origin "HEAD:${{ github.event.inputs.branch }}"
